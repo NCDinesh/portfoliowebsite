@@ -1,14 +1,10 @@
 ---
-title: Senior Detective
-date: 1990 - Present
-url: http://ropibbe.nf/savadru
-location: Los Angeles, California
-org: Los Angeles Police Department (LAPD)
-tags: ["Law Enforcement", "Police Work", "Tactical Operations", "Case Management"]
+title: Software Developer
+date: Jan 2025 - Present
+url: 
+location: Kathhmandu, Nepal
+org: Cyber Alert Nepal
+tags: ["Software Developer", "Front End", "Digital Forensics"]
 ---
 
-- Lead investigations into organized crime, drug trafficking, and high-profile criminal activities.
-- Conducted extensive surveillance operations utilizing advanced equipment and techniques to gather critical intelligence.
-- Collaborated with federal agencies such as the FBI and DEA on joint task forces to dismantle criminal syndicates.
-- Played a pivotal role in numerous undercover operations, successfully infiltrating criminal organizations and gathering actionable evidence for prosecution.
-- Trained and mentored junior officers in surveillance tactics, undercover operations, and tactical maneuvers.
+- Worked as Frontend Developer for the official website of Digital Forenics based company, Cyber Alert Nepal which was made upon Astro(Javascript Framework)

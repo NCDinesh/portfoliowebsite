@@ -1,22 +1,12 @@
 ---
-title: Tactical Team Leader
-date: 1985 - 1990
-url: http://atawajof.dz/vonilzor
-location: Los Angeles, California
-org: Los Angeles County Sheriff's Department – SWAT Division
-tags:
-  [
-    "SWAT",
-    "Surveillance",
-    "Undercover Operations",
-    "Evidence Gathering",
-    "Case Solving",
-    "Interviewing Skills",
-  ]
+title: President
+date: Jan 2024 - Ongoing
+url: https://www.aceserc.org/
+location: Purwanchal Campus, Dharan
+org: Association of Computer Engineering Students
+tags: ["Leadership", "Committee", "Students' Society", "Event Management"]
 ---
 
-- Led SWAT operations in high-risk situations, including hostage rescues, armed standoffs, and counter-terrorism missions.
-- Developed and implemented tactical plans tailored to specific scenarios, ensuring the safety of hostages, civilians, and law enforcement personnel.
-- Conducted specialized training for SWAT team members in firearms proficiency, close-quarters combat, tactical movement, and hostage negotiation.
-- Coordinated with local, state, and federal agencies to support joint operations and enhance interagency cooperation.
-- Provided expertise and assistance in the planning and execution of high-profile security details for visiting dignitaries, VIPs, and major events.
+- Coordinated HTML, CSS, JavaScript, Node.js, and C programming training sessions, providing students with hands-on experience in core technologies.
+- Organized Cybersecurity, Blockchain, AWS Cloud webinars and CV workshop bringing industry experts to share insights and trends in emerging technologies.
+- Organized ACESTechfest 7.0, a state-level technical fest featuring competitions like Hackathon, AR Bug Hunt, CTF, UI/UX, Datathon, Google Maestro, and GameFest, along with the first-ever Internship Fest connecting students to software companies from Eastern Nepal, fostering career opportunities and skill development.

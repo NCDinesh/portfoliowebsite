@@ -7,10 +7,10 @@ import ContactCard from "./ContactCard.astro";
 const works = await Astro.glob("../pages/works/*.md");
 const projects = await Astro.glob("../pages/projects/*.md");
 const studies = await Astro.glob("../pages/studies/*.md");
-const certificates = await Astro.glob("../pages/certificates/*.md");
-const blogs = await Astro.glob("../pages/blogs/*.md");
+// const certificates = await Astro.glob("../pages/certificates/*.md");
+// const blogs = await Astro.glob("../pages/blogs/*.md");
 const contact = await Astro.glob("../pages/contact/*.md");
-const PDF = "/cv-20240219.pdf";
+const PDF = "/DineshNepal_CV.pdf";
 ---
 
 <div class="join join-vertical gap-1">
@@ -20,7 +20,7 @@ const PDF = "/cv-20240219.pdf";
     </article>
   </AccordionLayout>
 
-  <AccordionLayout title={"Work"} icon={"carbon:construction"}>
+  <AccordionLayout title={"Experience"} icon={"carbon:construction"}>
     {
       works.map((item) => {
         return (
@@ -38,7 +38,7 @@ const PDF = "/cv-20240219.pdf";
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Studies"} icon={"carbon:education"}>
+  <AccordionLayout title={"Academics"} icon={"carbon:education"}>
     {
       studies.map((item) => {
         return (
@@ -72,7 +72,7 @@ const PDF = "/cv-20240219.pdf";
     }
   </AccordionLayout>
 
-  <AccordionLayout title={"Certifications"} icon={"carbon:certificate"}>
+  <!-- <AccordionLayout title={"Certifications"} icon={"carbon:certificate"}>
     {
       certificates.map((item) => {
         return (
@@ -87,9 +87,9 @@ const PDF = "/cv-20240219.pdf";
         );
       })
     }
-  </AccordionLayout>
+  </AccordionLayout> -->
 
-  <AccordionLayout title={"Blogs"} icon={"carbon:pen"}>
+  <!-- <AccordionLayout title={"Blogs"} icon={"carbon:pen"}>
     {
       blogs.map((item) => {
         return (
@@ -103,13 +103,12 @@ const PDF = "/cv-20240219.pdf";
         );
       })
     }
-  </AccordionLayout>
+  </AccordionLayout> -->
 
   <AccordionLayout title={"Files"} icon={"carbon:volume-file-storage"}>
     <div class="flex justify-center w-full">
       <div
-        class="card card-compact card-bordered border-[oklch(var(--s))] w-96 md:w-112 lg:w-128 hover:shadow-lg transition-all"
-      >
+        class="card card-compact card-bordered border-[oklch(var(--s))] w-96 md:w-112 lg:w-128 hover:shadow-lg transition-all">
         <figure>
           <object data={PDF} type="application/pdf" width="100%"></object>
         </figure>
