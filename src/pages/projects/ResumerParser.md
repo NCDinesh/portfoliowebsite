@@ -1,5 +1,5 @@
 ---
-title: Legal Chatbot for Gender-Based Violence Assistance (2024)
+title: Resume Parser (2024)
 url: https://github.com/NCDinesh/ResumeParser
 tags: ["Django", "HTML, CSS", "NLP", "NER"]
 date: 2023
